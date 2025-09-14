@@ -49,6 +49,6 @@
     "moduleDetection": "force",
     "skipLibCheck": true
   },
-   "include": ["src/**/*", "spec/**/*"],
+   "include": ["src/**/*", "src/spec/**/*"],
   "exclude": ["dist"]
 }
